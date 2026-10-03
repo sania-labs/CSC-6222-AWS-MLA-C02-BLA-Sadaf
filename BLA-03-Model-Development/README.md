@@ -9,3 +9,8 @@ The content is divided into three parts:
 - Part 3 discusses model evaluation, explainability, drift detection, and continuous improvement.
 
 This folder also includes links to the related YouTube videos and LinkedIn posts.
+## YouTube Videos
+
+- Part 1: [Watch the video] https://youtu.be/FOfmKnv64hI
+- Part 2: [Watch the video](YOUTUBE LINK)
+- Part 3: [Watch the video](YOUTUBE LINK)
