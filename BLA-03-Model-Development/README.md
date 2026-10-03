@@ -12,5 +12,5 @@ This folder also includes links to the related YouTube videos and LinkedIn posts
 ## YouTube Videos
 
 - Part 1: [Watch the video] https://youtu.be/FOfmKnv64hI
-- Part 2: [Watch the video](YOUTUBE LINK)
+- Part 2: [Watch the video] https://youtu.be/bn2hcUM7M2Q
 - Part 3: [Watch the video](YOUTUBE LINK)
