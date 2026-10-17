@@ -6,6 +6,6 @@ This module covers Domain 3 of the AWS Certified Machine Learning Engineer – A
 Videos
 Part 1 – Deployment Infrastructure and Inference Strategies: https://youtu.be/twRYy-kKSvc 
 
-Part 2 – Provisioning and Configuring ML and AI Resources: [Watch on YouTube]([VIDEO 2 LINK])
+Part 2 – Provisioning and Configuring ML and AI Resources: https://youtu.be/ek7xIqGZGcI
 
 Part 3 – Automating ML and AI Workflows with CI/CD: [Watch on YouTube]([VIDEO 3 LINK])
