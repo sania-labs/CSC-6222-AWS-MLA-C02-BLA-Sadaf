@@ -9,3 +9,9 @@ Part 1 – Deployment Infrastructure and Inference Strategies: https://youtu.be/
 Part 2 – Provisioning and Configuring ML and AI Resources: https://youtu.be/ek7xIqGZGcI
 
 Part 3 – Automating ML and AI Workflows with CI/CD: https://youtu.be/UWzJwOgF_x8
+
+# 💼 LinkedIn
+
+- Part 1 post: https://lnkd.in/p/g4-dMEa2
+- Part 2 post: https://lnkd.in/p/gBFz5vhz
+- Part 3 post: https://lnkd.in/p/g9pJ8unz
