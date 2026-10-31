@@ -10,7 +10,7 @@ This module covers Domain 4 of the AWS Certified Machine Learning Engineer – A
 
 ## 💼 LinkedIn
 
-- Part 1 post: [LINKEDIN POST 1 LINK]
-- Part 2 post: [LINKEDIN POST 2 LINK]
-- Part 3 post: [LINKEDIN POST 3 LINK]
+- Part 1 post: https://lnkd.in/p/gvFYehvd 
+- Part 2 post: https://lnkd.in/p/gs8WFBqy
+- Part 3 post: https://lnkd.in/p/g8WkE3eq
 
