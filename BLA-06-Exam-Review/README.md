@@ -4,7 +4,7 @@ This module is the final review for the AWS Certified Machine Learning Engineer 
 
 ## 🎥 Videos
 
-- **Part 1 – Exam Strategy and Question Patterns:** [Watch on YouTube]([VIDEO 1 LINK])
+- **Part 1 – Exam Strategy and Question Patterns: https://youtu.be/RCkFuNHKk7Q 
 - **Part 2 – Scenario Practice Across All Domains:** [Watch on YouTube]([VIDEO 2 LINK])
 - **Part 3 – End-to-End Case Study and Final Review:** [Watch on YouTube]([VIDEO 3 LINK])
 
