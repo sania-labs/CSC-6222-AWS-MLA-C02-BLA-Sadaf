@@ -10,7 +10,7 @@ This module is the final review for the AWS Certified Machine Learning Engineer 
 
 ## 💼 LinkedIn
 
-- Part 1 post: [LINKEDIN POST 1 LINK]
-- Part 2 post: [LINKEDIN POST 2 LINK]
-- Part 3 post: [LINKEDIN POST 3 LINK]
-- Profile: [LINKEDIN PROFILE LINK]
+- Part 1 post: https://lnkd.in/p/gGnMS6gw
+- Part 2 post: https://lnkd.in/p/grCcc7xu
+- Part 3 post: https://lnkd.in/p/guZWNGNX 
+
